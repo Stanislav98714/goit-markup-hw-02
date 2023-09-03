@@ -98,6 +98,9 @@ address :focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.list-item {
+  background-color: #ffffff;
+}
 .third-list-heading {
   font-weight: 500;
   font-size: 20px;
