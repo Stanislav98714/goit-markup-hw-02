@@ -12,7 +12,7 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logo span {
+.logo-text1 {
   color: #2e2f42;
 }
 .nav-link {
@@ -108,4 +108,16 @@ address :focus {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+}
+.footer {
+  background-color: #2e2f42;
+  text-align: center;
+}
+.logo-text {
+  color: #f4f4fd;
+}
+.footer-paragraph {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
